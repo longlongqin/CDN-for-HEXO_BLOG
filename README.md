@@ -9,11 +9,15 @@
 使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 例如：
 
+1. 我的头像
+
 - https://cdn.jsdelivr.net/gh/longlongqin/CDN-for-HEXO_BLOG/photo.jpg
 
-- https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.0.1/css/style.css
+2. 我的文章图片链接：
 
-- https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.3//The%20Pet%20Girl%20of%20Sakurasou.mp4
+- https://cdn.jsdelivr.net/gh/longlongqin/CDN-for-HEXO_BLOG/post_image/文件夹名称/图片名称
+
+  
 
 注意：**版本号不是必需的**，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源，除此之外还可以使用某个范围内的版本，查看所有资源等，具体使用方法如下：
 
@@ -35,3 +39,4 @@ https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/src/core.min.js
 
 // 在末尾添加 / 以获取资源目录列表
 https://cdn.jsdelivr.net/gh/jquery/jquery/
+
