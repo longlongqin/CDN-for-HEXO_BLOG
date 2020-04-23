@@ -14,7 +14,6 @@
 
 2. 我的文章图片链接：
    - https://cdn.jsdelivr.net/gh/longlongqin/CDN-for-HEXO_BLOG/post_image/文件夹名称/图片名称
-
 3. 用于easysearch：
    - https://cdn.jsdelivr.net/gh/longlongqin/CDN-for-HEXO_BLOG/easysearch/..../..../
 
